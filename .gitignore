@@ -19,6 +19,5 @@
 *.class
 *.log
 */checkpoint/*
-*/pair.**
 */spark-warehouse/*
 !application.properties
